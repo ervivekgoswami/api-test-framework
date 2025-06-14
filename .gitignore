@@ -1,0 +1,13 @@
+target/
+.mvn
+
+### IntelliJ IDEA ###
+.idea
+
+### Eclipse ###
+.classpath
+.project
+.settings
+
+### VS Code ###
+.vscode/
